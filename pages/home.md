@@ -15,7 +15,7 @@ _Try searching for {"Family", "Genus", "Species"}, or start at [{Order}](https:/
 
 ## Discover more
 
-Our [About](/about) page contains an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact) find [help on using this TaxonPage website], where to [request a feature]() or [report a bug]() or dive into the [technical details](/about#technical) behind {{frontmatter.project}.
+Our [About](/about) page contains an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact) find [help on using this TaxonPage website], where to [request a feature]() or [report a bug]() or dive into the [technical details](/about#technical) behind {{frontmatter.project}}.
 
 ## Announcements
 ### Announcement title 1
