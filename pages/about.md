@@ -1,24 +1,24 @@
 ---
 title: About 
-focal_taxon: Plecoptera
-focal_taxon_common_name: stoneflies
-old_website: http://plecoptera.speciesfile.org
+focal_taxon: FOCAL_TAXON
+focal_taxon_common_name: TAXON_COMMON_NAME
+old_website: http://SUBDOMAIN.speciesfile.org
 contact_email: user@example.com
-copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
-citation: Project collaborative. 2022. Website title. Available at https://example.com.
+copyright: COPYRIGHT
+citation: CITATION
 ---
 
 # About
 _{tag line}_
 
 ## Overview
-The {focal_taxon} Species file offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {focal_taxon_common_name}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup). See [Contribute](#contribute) for how you can participate. This site is built using TaxonPages, [learn more and get help](). For more on how this site is built please see the [Technical](#technical) section.
+The {{focal_taxon}} Species file offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup). See [Contribute](#contribute) for how you can participate. This site is built using TaxonPages, [learn more and get help](). For more on how this site is built please see the [Technical](#technical) section.
 
 ## Gaps as Opportunity
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contact) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
 
 ## History
-_Our old website is now a read-only resource available at [https://{focal_taxon}.archive.speciesfile.org](https://{focal_taxon}.archive.speciesfile.org)._
+_Our old website is now a read-only resource available at [https://{{focal_taxon}}.archive.speciesfile.org](https://{{focal_taxon}}.archive.speciesfile.org)._
 
 {How did the Species File Group come to be (shared history)}. How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data.}
 
@@ -28,7 +28,7 @@ As of {yyyy-mm-dd} all data in the former Species File Websites were frozen and 
 ### Contribute
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
 
-* Join the {focal_taxon} Species File regular support meetings at { details if these exist }./
+* Join the {{focal_taxon}} Species File regular support meetings at { details if these exist }./
 * Enquire about joining the researchers building this Species File: [{ProjectManager}](mailto:address@example.com).
 * Provide new data or to identify a problem with existing data: [{ProjectManager}](mailto:address@example.com). {Issue tracker option}.
 * Report a technical bug (e.g. broken link or button) within TaxonPages: [TaxonPages' issue tracker](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+)
@@ -75,7 +75,7 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 Want to create your own site? This website is built completely using open-source software. Data are curated in a TaxonWorks project then shared via a TaxonWorks API.  TaxonPages accesses these shared data and renders it into the panels and pages you see here.
 
 ## Related resources
-_Find out more about {focal_taxon} at these websites._
+_Find out more about {{focal_taxon}} at these websites._
 
 ### Websites
 * [site name]{site url}
