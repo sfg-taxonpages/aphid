@@ -3,6 +3,6 @@ metadata:
   - name: description
     content: TaxonPages is a tool to serve taxon pages.
   - name: keywords
-    content: taxonpages, species, sfg
+    content: taxonomy, species, Species File Group
   - name: robots
     content: follow
