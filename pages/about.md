@@ -75,22 +75,17 @@ About our group structure, how the rules behind joining and participating are se
 | Site name | [site name]{site url} | Note |
 | Site name | [site name]{site url} | Note |
 
-
 ## Terms of use
 _Copyright guidance._
 
-<ul>
-  <li> 
-    <div class="flex items-center">
-      <a href="{{ app:copyright_image_link }}">
-        <img 
-          src="{{ app:copyright_image }}" 
-          alt="copyright" 
-          class="m-0 mr-2"
-        >
-      </a>
-      <span>{{ app:copyright_text }}</span>
-    </div>
-  </li>
-</ul>
+<div class="flex items-center">
+  <a href="{{ app:copyright_image_link }}">
+    <img 
+      src="{{ app:copyright_image }}" 
+      alt="copyright" 
+      class="m-0 mr-2"
+    >
+  </a>
+  <span>{{ app:copyright_text }}</span>
+</div>
 
