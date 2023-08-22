@@ -5,7 +5,7 @@
 # {{ app:project_name }}
 {TODO: Mission statement, or vision and purpose: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
 
-<autocomplete-otu class="w-80 place-content-center"/>
+<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
 

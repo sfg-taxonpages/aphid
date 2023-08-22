@@ -80,6 +80,17 @@ About our group structure, how the rules behind joining and participating are se
 _Copyright guidance._
 
 <ul>
-<li> <img src="{{app:copyright_image}}" style="align:  left;"> {{ app:copyright_text }} </li>
+  <li> 
+    <div class="flex items-center">
+      <a href="{{ app:copyright_image_link }}">
+        <img 
+          src="{{ app:copyright_image }}" 
+          alt="copyright" 
+          class="m-0 mr-2"
+        >
+      </a>
+      <span>{{ app:copyright_text }}</span>
+    </div>
+  </li>
 </ul>
 
