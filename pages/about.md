@@ -23,13 +23,12 @@ _This Species File functionality and content is serviced in part by the Species 
 Through the generous support of ... we ...
 Or Funding needed to publish our latest information ... or address data gaps
 
-
 - {Society Logo } - Society
 - Science Foundation {requires disclaimer}
 - An organization other entity
 
 ## Contributors
-_A \* denotes a past contributor, now inactive._
+
 |name|role|
 |----|----|
 | First name Last Name | Author |
@@ -38,6 +37,8 @@ _A \* denotes a past contributor, now inactive._
 | First name Last Name | TaxonWorks Project Manager |
 | First name Last Name | Developer |
 | First name Last Name | Community contributor |
+
+_A \* denotes a past contributor, now inactive._
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
