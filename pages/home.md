@@ -3,31 +3,23 @@
 ---
 
 # {{ app:project_name }}
+{TODO: Mission statement, or vision and purpose: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
 
-## Mission statement
-
-{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.}
-
-## Search
-
-<autocomplete-otu class="w-80"/>
+<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [{Family}]({{app:project_url}}/otu/{id}/overview), or [{Genus}]({{app:project_url}}/otu/{id}/overview)._
 
 ## Discover more
-
-Our [About](about) page contains an [overview](about#overview) of the content and its [gaps](about#gaps-as-opportunity) and [history](about#history), the [team](about#team) and [support](about#support) behind the **{{app:project_name}}** and how _you_ can [contribute](about#contribute). You can also [contact us](about#contact) find [help on using this TaxonPage website](https://github.com/SpeciesFileGroup/taxonpages/), where to [request a feature](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=enhancement&projects=&template=feature.yml) or [report a bug](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+) or dive into the [technical details](/about#technical) behind the **{{app:project_name}}**.
+Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
-
 ### Announcement title 1
-
-_ Authors, date_
+<!--- add inline --->
+_Authors, date_
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Announcement title 2
-
-_ Authors, date_`
+_Authors, date_
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
