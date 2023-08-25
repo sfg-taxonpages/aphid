@@ -1,8 +1,9 @@
 ---
-  project_name: "TODO Add a project_name to project.yml, like Orthoptera Species File"
-  project_citation: "TODO Add a citation to project.yml."
-  project_url: "TODO Add an URL to project.yml like 'https://orthoptera.speciesfile.org'."
-  project_old_url: "TODO Add an old project URL to project.yml like 'https://orthoptera.speciesfile.org'." 
-  focal_taxon: "TODO Add a focal taxon name to project.yml, lowercase, like plecoptera."
-  focal_taxon_common_name: "TODO Add a focal taxon common name to project.yml"
-  contact_email: "TODO: Add a contact email to project.yml"
+  project_name: 'Aphid Species File'
+  project_citation: 'Aphid Species File'
+  project_authors: 'Favret C.'
+  project_url: 'https://aphid.speciesfile.org'
+  project_old_url: 'https://aphid.archive.speciesfile.org'
+  focal_taxon: 'aphid'
+  focal_taxon_common_name: 'greenfly, blackfly, and plant lice'
+  contact_email: 'ColinFavret@aphidnet.org'
