@@ -2,7 +2,7 @@
 # See project.yml for variables.
 ---
 # About
-_{tag line- e.g. "Building community around and gathering knowledge about the world’s stoneflies"}_
+_Building community around and gathering knowledge about the world’s plant lice_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
@@ -20,24 +20,19 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 ### Support and funding
 _This Species File functionality and content is serviced in part by the Species File Group._
 
-Through the generous support of ... we ...
-Or Funding needed to publish our latest information ... or address data gaps
-
-
-- {Society Logo } - Society
-- Science Foundation {requires disclaimer}
-- An organization other entity
+The work of the Aphid Species File community receives support from grants and others sources. Funding is needed to address known gaps (e. g. ).
 
 ## Contributors
+|name|affiliation|role|identifier|
+|:----|:----|:----|:----|
+| Colin Favret | AphidNet LLC, Collection entomologique Ouellet-Robert, Institut de recherche en biologie végétale, University of Illinois, Université de Montréal | Author | [ORCiD](https://orcid.org/0000-0001-6243-3184) |
+| Gary L. Miller | Systematic Entomology Laboratory, US Department of Agriculture | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0001-5456-8097)|
+| Gexia Qiao | Institute of Zoology, Chinese Academy of Sciences| Community collaborator and contributor |
+| Masakazu Sano | Hokkaido Agricultural Research Center, NARO, Japan | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0001-7477-2570)
+| Andrey V. Stekolshchikov | Zoological Institute, Russian Academy of Sciences | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649)
+| David C. Eades* | Illinois Natural History Survey | Database Developer
+
 _A \* denotes a past contributor, now inactive._
-|name|role|
-|----|----|
-| First name Last Name | Author |
-| First name Last Name\* | Author |
-| First name Last Name | Editor |
-| First name Last Name | TaxonWorks Project Manager |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
@@ -57,7 +52,7 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 - Core taxonomic data are exported to and available at the [Catalogue of Life]({https://link_to_root_taxon_page}) and its [associated API]({https://link_to_api_for_pertinent_dataset}).
 
 ### Software
-These pages are built with completely open-source software. [Read more](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them, how they supported by the Species File Group and their many collaborators, or [join weekly support meetings](https://speciesfilegroup.org/events.html) and see how it all fits together, includes links to issue trackers.
+These pages are built with completely open-source software. [Read more](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them, how they are supported by the Species File Group and their many collaborators. We invite you to [join our weekly support meetings](https://speciesfilegroup.org/events.html) and see how it all fits together, includes links to issue trackers.
 
 ### Governance
 About our group structure, how the rules behind joining and participating are set.
@@ -66,14 +61,14 @@ About our group structure, how the rules behind joining and participating are se
 
 ### References
 
-* { Some typical reference cited format } 
+* Favret C, Havill NP, Miller GL, Sano M, Victor B (2015) Catalog of the adelgids of the world (Hemiptera, Adelgidae). ZooKeys 534: 35-54. https://doi.org/10.3897/zookeys.534.6456
+* Favret C, Blackman RL, Miller GL, Victor B (2016) Catalog of the phylloxerids of the world (Hemiptera, Phylloxeridae). ZooKeys 629: 83-101. https://doi.org/10.3897/zookeys.629.10709
 
 ### Websites
 
 |Name|URL|Note|
-|----|---|----|
-| Site name | [site name]{site url} | Note |
-| Site name | [site name]{site url} | Note |
+|:----|:---|:----|
+| Aphids on the World's Plants: an  online identification and information guide | [Aphids on the World's Plants](http://www.aphidsonworldsplants.info/) | maintained by Roger Blackman <roger.blackman@aphidsonworldsplants.info> |
 
 ## Terms of use
 _Copyright guidance._
