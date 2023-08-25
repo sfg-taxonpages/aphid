@@ -13,13 +13,13 @@ _Try searching for **Adelgidae**, **Phylloxerina**, **Phylloxerina capreae**, or
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute). You can also [contact us](about#contribute) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
-### Announcement title 1
+### A comprehensive catalog of the Phylloxeridae now published in ZooKeys
 <!--- add inline --->
 _Colin Favret, 2016_
 
-A comprehensive catalog of the Adelgidae now published in ZooKeys. See Favret C, Blackman RL, Miller GL, Victor B (2016) Catalog of the phylloxerids of the world (Hemiptera, Phylloxeridae). ZooKeys 629: 83-101. https://doi.org/10.3897/zookeys.629.10709
+See Favret C, Blackman RL, Miller GL, Victor B (2016) Catalog of the phylloxerids of the world (Hemiptera, Phylloxeridae). ZooKeys 629: 83-101. https://doi.org/10.3897/zookeys.629.10709
 
-### Announcement title 2
+### A comprehensive catalog of the Adelgidae now published in ZooKeys
 _Colin Favret, 2015_
 
-A comprehensive catalog of the Adelgidae now published in ZooKeys. See Favret C, Havill NP, Miller GL, Sano M, Victor B (2015) Catalog of the adelgids of the world (Hemiptera, Adelgidae). ZooKeys 534: 35-54. https://doi.org/10.3897/zookeys.534.6456
+See Favret C, Havill NP, Miller GL, Sano M, Victor B (2015) Catalog of the adelgids of the world (Hemiptera, Adelgidae). ZooKeys 534: 35-54. https://doi.org/10.3897/zookeys.534.6456
