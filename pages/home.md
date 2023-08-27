@@ -10,7 +10,7 @@ The Aphid Species File is a taxonomic, nomenclatural, and bibliographic database
 _Try searching for **Adelgidae**, **Phylloxerina**, **Phylloxerina capreae**, or start at [Hemiptera]({{app:project_url}}/otu/899787/overview), [Aleyrodidae]({{app:project_url}}/otu/899953/overview), or [Baeopelma]({{app:project_url}}/otu/899910/overview)._
 
 ## Discover more
-Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute). You can also [contact us](about#contribute) or [get help](about#contribute-or-get-help). 
+Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
 ### A comprehensive catalog of the Phylloxeridae now published in ZooKeys
