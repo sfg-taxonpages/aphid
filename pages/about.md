@@ -78,12 +78,15 @@ About our group structure, how the rules behind joining and participating are se
 
 ## Terms of use (Copyright guidance)
 
-<div class="flex items-center">
-  <a href="{{ app:copyright_image_link }}">
+<div class="flex items-center gap-2">
+  <a
+    class="min-w-fit"
+    href="{{ app:copyright_image_link }}"
+  >
     <img 
       src="{{ app:copyright_image }}" 
       alt="copyright" 
-      class="m-0 mr-2"
+      class="m-0"
     >
   </a>
   <span>{{ app:copyright_text }}</span>
