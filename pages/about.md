@@ -76,8 +76,7 @@ About our group structure, how the rules behind joining and participating are se
 | Site name | [site name]{site url} | Note |
 | Site name | [site name]{site url} | Note |
 
-## Terms of use
-_Copyright guidance._
+## Terms of use (Copyright guidance)
 
 <div class="flex items-center">
   <a href="{{ app:copyright_image_link }}">
