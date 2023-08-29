@@ -70,8 +70,7 @@ About our group structure, how the rules behind joining and participating are se
 |:----|:---|:----|
 | Aphids on the World's Plants: an  online identification and information guide | [Aphids on the World's Plants](http://www.aphidsonworldsplants.info/) | maintained by Roger Blackman <roger.blackman@aphidsonworldsplants.info> |
 
-## Terms of use
-_Copyright guidance._
+## Terms of use (Copyright guidance)
 
 <div class="flex items-center">
   <a href="{{ app:copyright_image_link }}">
