@@ -1,8 +1,8 @@
 ---
 metadata:
   - name: description
-    content: TaxonPages is a tool to serve taxon pages.
+    content: The Aphid Species File is a taxonomic, nomenclatural, and bibliographic database of the aphids of the world, including all extant and fossil taxa.
   - name: keywords
-    content: taxonomy, species, Species File Group
+    content: taxonpages, aphid, plant lice, taxonomy, species, Species File Group, sfg, Aphid Species File, aphid species file
   - name: robots
     content: follow
