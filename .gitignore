@@ -1,5 +1,8 @@
 *
 !pages
+!pages/**
 !config
+!config/**
 !public
 !README.md
+config/**/*.development.yml
