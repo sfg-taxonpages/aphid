@@ -4,6 +4,9 @@ _{{ app:project_name }} is a community-built open resource on the aphids of the 
 ## Overview
 _{{ app:project_name }}_ is collection of cited and annotated information on the taxonomy of Earth’s living and fossil aphids, including {{app:focal_taxon_common_name}}. Data found here come from a compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
+## Citation
+_Cite this resource as follows: Favret, C. [this year]. Aphid Species File. [retrieval date]. <http://Aphid.SpeciesFile.org>
+
 ## Gaps as opportunity
 The Earth's biodiversity is vast and the data captured to describe it are immense. All projects of this nature contain gaps providing opportunities for collaboration on future work, grants, and research. A particularly important gap in this project concerns specimen data. With specimen data, we can fill in other gaps such as biological associations (especially host plants) and geographic distributions. Please [contact us](#contribute-or-get-help) if you would like to help us address these and other knowledge gaps.
 
@@ -29,7 +32,7 @@ _Our old website is now a read-only resource available at [http://{{app:focal_ta
 
 _{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowledge community in 2009 at the International Symposium on Aphids in Katania, Italy. [Favret C, Eades DC. 2009. Introduction to Aphid Species File, http://Aphid.SpeciesFile.org. Redia, 92: 115-117.](https://www.redia.it/images/stories/pdf2009/21%20Favret.pdf).
 
-Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide. Please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
+Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is now out to colleagues worldwide: please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
 
 ## Companion resource
 
