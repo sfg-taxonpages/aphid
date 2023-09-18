@@ -1,4 +1,4 @@
-{{ app:project_name }}
+# {{ app:project_name }}
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/></autocomplete-otu>
 
