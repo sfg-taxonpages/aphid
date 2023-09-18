@@ -1,6 +1,3 @@
----
-# See project.yml for variables.
----
 # About
 _{{ app:project_name }} is a community-built open resource on the aphids of the world_
 
@@ -8,23 +5,23 @@ _{{ app:project_name }} is a community-built open resource on the aphids of the 
 _{{ app:project_name }}_ offers a community-curated collection of cited and annotated information on the taxonomy of Earth’s aphids, including {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Gaps as opportunity
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. A particularly important gap in this project concerns specimen data. From specimen data, we can then fill in gaps regarding include biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
 
 ## History
 _Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
 _{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowledge community at the International Symposium on Aphids in Katania, Italy, in 2009. [Favret C, Eades DC. 2009. Introduction to Aphid Species File, http://Aphid.SpeciesFile.org. Redia, 92: 115-117.](https://www.redia.it/images/stories/pdf2009/21%20Favret.pdf).
 
-Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [Colin Favret](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide. Please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
+Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide. Please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
 
 ## Contributors
 |name|affiliation|role|identifier|
 |:----|:----|:----|:----|
-| Colin Favret | University of Montreal, Canada | Author | [ORCiD](https://orcid.org/0000-0001-6243-3184) |
-| Gary L. Miller | Systematic Entomology Laboratory, US Department of Agriculture | Contributor | [ORCiD](https://orcid.org/0000-0001-5456-8097) |
-| Gexia Qiao | Institute of Zoology, Chinese Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0002-7300-6812) |
-| Masakazu Sano | Hokkaido Agricultural Research Center, NARO, Japan | Contributor | [ORCiD](https://orcid.org/0000-0001-7477-2570) |
-| Andrey V. Stekolshchikov | Zoological Institute, Russian Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649) |
+| {{app:project_authors}} | University of Montreal, Canada | Author | [ORCiD](https://orcid.org/0000-0001-6243-3184) |
+| Gary L. MILLER | Systematic Entomology Laboratory, US Department of Agriculture | Contributor | [ORCiD](https://orcid.org/0000-0001-5456-8097) |
+| QIAO Gexia | Institute of Zoology, Chinese Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0002-7300-6812) |
+| Masakazu SANO | Hokkaido Agricultural Research Center, NARO, Japan | Contributor | [ORCiD](https://orcid.org/0000-0001-7477-2570) |
+| Andrey V. STEKOLSHCHIKOV | Zoological Institute, Russian Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649) |
 
 ### Support and funding
 _This Species File functionality and content is serviced in part by the Species File Group._
@@ -46,24 +43,16 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 - Panel data (each section on a page) and other information not available on these pages are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1).
 - Core taxonomic data are exported to and available at the [Catalogue of Life]({https://link_to_root_taxon_page}) and its [associated API]({https://link_to_api_for_pertinent_dataset}).
 
-### Software
-These pages are built with completely open-source software. [Read more](http://speciesfilegroup.org/docs/taxonworks_in_production_at_sfg.html) about what drives them, how they are supported by the Species File Group and their many collaborators. We invite you to [join our weekly support meetings](https://speciesfilegroup.org/events.html) and see how it all fits together, includes links to issue trackers.
-
-### Governance
-About our group structure, how the rules behind joining and participating are set.
-
-## Related resources
-
 ### References
 
-* Favret C, Havill NP, Miller GL, Sano M, Victor B (2015) Catalog of the adelgids of the world (Hemiptera, Adelgidae). ZooKeys 534: 35-54. https://doi.org/10.3897/zookeys.534.6456
-* Favret C, Blackman RL, Miller GL, Victor B (2016) Catalog of the phylloxerids of the world (Hemiptera, Phylloxeridae). ZooKeys 629: 83-101. https://doi.org/10.3897/zookeys.629.10709
+* [Favret C, Havill NP, Miller GL, Sano M, Victor B (2015) Catalog of the adelgids of the world (Hemiptera, Adelgidae). ZooKeys 534: 35-54.](https://doi.org/10.3897/zookeys.534.6456)
+* [Favret C, Blackman RL, Miller GL, Victor B (2016) Catalog of the phylloxerids of the world (Hemiptera, Phylloxeridae). ZooKeys 629: 83-101.](https://doi.org/10.3897/zookeys.629.10709)
 
-### Websites
+## Related resource
 
 |Name|URL|Note|
 |:----|:---|:----|
-| Aphids on the World's Plants: an  online identification and information guide | [Aphids on the World's Plants](http://www.aphidsonworldsplants.info/) | maintained by Roger Blackman <roger.blackman@aphidsonworldsplants.info> |
+| Aphids on the World's Plants: an  online identification and information guide | [Aphids on the World's Plants](http://www.aphidsonworldsplants.info/) | created by [Roger BLACKMAN](https://doi.org/10.11646/zootaxa.5183.1.4), maintained by {{app:project_authors}} |
 
 ## Terms of use and copyright guidance
 
