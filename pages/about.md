@@ -2,10 +2,10 @@
 # See project.yml for variables.
 ---
 # About
-_Building community around and gathering knowledge about the world’s plant lice_
+_{{ app:project_name }} is a community-built open resource on the aphids of the world_
 
 ## Overview
-The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
+_{{ app:project_name }}_ offers a community-curated collection of cited and annotated information on the taxonomy of Earth’s aphids, including {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
 
 ## Gaps as opportunity
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
@@ -13,26 +13,21 @@ The Earth's biodiversity is vast, the data captured to describe it are minimal i
 ## History
 _Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
-{How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data. Potentially linked to a shared history at sfg.org if we get that done.} 
+_{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowledge community at the International Symposium on Aphids in Katania, Italy, in 2009. [Favret C, Eades DC. 2009. Introduction to Aphid Species File, http://Aphid.SpeciesFile.org. Redia, 92: 115-117.](https://www.redia.it/images/stories/pdf2009/21%20Favret.pdf).
 
-As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [Contribute or get help](#contribute-or-get-help).
-
-### Support and funding
-_This Species File functionality and content is serviced in part by the Species File Group._
-
-The work of the Aphid Species File community receives support from grants and others sources. Funding is needed to address known gaps (e. g. ).
+Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [Colin Favret](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide. Please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
 
 ## Contributors
 |name|affiliation|role|identifier|
 |:----|:----|:----|:----|
-| Colin Favret | AphidNet LLC, Collection entomologique Ouellet-Robert, Institut de recherche en biologie végétale, University of Illinois, Université de Montréal | Author | [ORCiD](https://orcid.org/0000-0001-6243-3184) |
-| Gary L. Miller | Systematic Entomology Laboratory, US Department of Agriculture | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0001-5456-8097)|
-| Gexia Qiao | Institute of Zoology, Chinese Academy of Sciences| Community collaborator and contributor |
-| Masakazu Sano | Hokkaido Agricultural Research Center, NARO, Japan | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0001-7477-2570)
-| Andrey V. Stekolshchikov | Zoological Institute, Russian Academy of Sciences | Community collaborator and contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649)
-| David C. Eades* | Illinois Natural History Survey | Database Developer
+| Colin Favret | University of Montreal, Canada | Author | [ORCiD](https://orcid.org/0000-0001-6243-3184) |
+| Gary L. Miller | Systematic Entomology Laboratory, US Department of Agriculture | Contributor | [ORCiD](https://orcid.org/0000-0001-5456-8097) |
+| Gexia Qiao | Institute of Zoology, Chinese Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0002-7300-6812) |
+| Masakazu Sano | Hokkaido Agricultural Research Center, NARO, Japan | Contributor | [ORCiD](https://orcid.org/0000-0001-7477-2570) |
+| Andrey V. Stekolshchikov | Zoological Institute, Russian Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649) |
 
-_A \* denotes a past contributor, now inactive._
+### Support and funding
+_This Species File functionality and content is serviced in part by the Species File Group._
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
