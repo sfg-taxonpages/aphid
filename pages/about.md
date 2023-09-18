@@ -1,11 +1,11 @@
 # About
-_{{ app:project_name }} is a community-built open resource on the aphids of the world_
+_{{ app:project_name }} is a community-built open resource on the aphids of the world._
 
 ## Overview
 _{{ app:project_name }}_ is collection of cited and annotated information on the taxonomy of Earth’s living and fossil aphids, including {{app:focal_taxon_common_name}}. Data found here come from a compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
 ## Citation
-_Cite this resource as follows: Favret, C. [this year]. Aphid Species File. [retrieval date]. <http://Aphid.SpeciesFile.org>
+Cite this resource as follows: _Favret, C. [this year]. Aphid Species File. [retrieval date]. <http://Aphid.SpeciesFile.org>_
 
 ## Gaps as opportunity
 The Earth's biodiversity is vast and the data captured to describe it are immense. All projects of this nature contain gaps providing opportunities for collaboration on future work, grants, and research. A particularly important gap in this project concerns specimen data. With specimen data, we can fill in other gaps such as biological associations (especially host plants) and geographic distributions. Please [contact us](#contribute-or-get-help) if you would like to help us address these and other knowledge gaps.
