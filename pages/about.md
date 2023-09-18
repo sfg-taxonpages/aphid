@@ -11,7 +11,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize { choose from list above }.
 
 ## History
-_Our old website is now a read-only resource available at [https://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
+_Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
 {How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data. Potentially linked to a shared history at sfg.org if we get that done.} 
 
@@ -39,7 +39,7 @@ _Projects of this nature require expertise in many different areas, not only on 
 
 - **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building this Species File. { ... or join a regular support meeting. } { See also [Governance](#governance). }
 - **Provide new data or identify a problem with existing data** by contacting us (see above). { Alternate data manager email}, {Issue tracker option}.
-- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use).
+- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use-and-copyright-guidance).
 - **Something is broken** (i.e. with TaxonPages the software)? See [Software](#software), or use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
 
 ### Extended data access
@@ -70,7 +70,7 @@ About our group structure, how the rules behind joining and participating are se
 |:----|:---|:----|
 | Aphids on the World's Plants: an  online identification and information guide | [Aphids on the World's Plants](http://www.aphidsonworldsplants.info/) | maintained by Roger Blackman <roger.blackman@aphidsonworldsplants.info> |
 
-## Terms of use (Copyright guidance)
+## Terms of use and copyright guidance
 
 <div class="flex items-center gap-2">
   <a
