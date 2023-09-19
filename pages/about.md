@@ -28,11 +28,12 @@ _Projects of this nature require expertise in many different areas, not only on 
 | Andrey V. STEKOLSHCHIKOV | Zoological Institute, Russian Academy of Sciences | Contributor | [ORCiD](https://orcid.org/0000-0003-4168-7649) |
 
 ## History
-_Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
-_{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowledge community in 2009 at the International Symposium on Aphids in Katania, Italy. [Favret C, Eades DC. 2009. Introduction to Aphid Species File, http://Aphid.SpeciesFile.org. Redia, 92: 115-117.](https://www.redia.it/images/stories/pdf2009/21%20Favret.pdf)
+_{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowledge community in 2009 at the 8th International Symposium on Aphids in Catania, Italy: Favret C, Eades DC. 2009. Introduction to Aphid Species File, http://Aphid.SpeciesFile.org. Redia, 92: 115-117. [(PDF)](https://www.redia.it/images/stories/pdf2009/21%20Favret.pdf)
 
-Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is now out to colleagues worldwide: please contact us if you would like to contribute. [Contribute or get help](#contribute-or-get-help).
+Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide: please contact us if you would like to contribute! [Contribute or get help](#contribute-or-get-help).
+
+_Our old website, with data frozen as of 14 August 2023, is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
 
 ## Companion resource
 
