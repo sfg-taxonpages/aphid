@@ -33,7 +33,7 @@ _{{ app:project_name }}_ started in 2008 and was introduced to the aphid knowled
 
 Until August 2023, _{{ app:project_name }}_ was almost entirely curated by [{{app:project_authors}}](http://favret.aphidnet.org/en/principal-investigator/). At that time, all data in _{{ app:project_name }}_ were frozen and migrated to TaxonWorks. With this renewal, the call is out to colleagues worldwide: please contact us if you would like to contribute! [Contribute or get help](#contribute-or-get-help).
 
-_Our old website, with data frozen as of 14 August 2023, is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](https://{{app:focal_taxon}}.archive.speciesfile.org)._
+_Our old website, with data frozen as of 14 August 2023, is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
 
 ## Companion resource
 
