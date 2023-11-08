@@ -8,7 +8,7 @@ _{{ app:project_name }}_ is collection of cited and annotated information on the
 Cite this resource as follows: **_Favret, C. [this year]. Aphid Species File. [retrieval date]. <http://Aphid.SpeciesFile.org>_**
 
 ## Gaps as opportunity
-The Earth's biodiversity is vast and the data captured to describe it are immense and growing. All projects of this nature contain gaps providing opportunities for collaboration. Although most of the nomenclature is established, a particularly important gap in this project concerns specimen data. With specimen data, we can fill in other gaps such as biological associations (especially host plants) and geographic distributions. Please [contact us](#contribute-or-get-help) if you would like to help us address these and other knowledge gaps or submit an [_Issue_](https://github.com/sfg-taxonpages/aphid/issues) if you find any errors.
+The Earth's biodiversity is vast and the data captured to describe it are immense and growing. All projects of this nature contain gaps providing opportunities for collaboration. Although most of the nomenclature is established, a particularly important gap in this project concerns specimen data. With specimen data, we can fill in other gaps such as biological associations (especially host plants) and geographic distributions. Please contact us if you would like to help us address these and other knowledge gaps.
 
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
