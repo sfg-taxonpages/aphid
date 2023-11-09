@@ -1,0 +1,4 @@
+analytics_services:
+  enableDev: true
+  analytics:
+    - id: 'G-FQ220J1V5R'
