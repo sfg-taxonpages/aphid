@@ -13,9 +13,10 @@ The Earth's biodiversity is vast and the data captured to describe it are immens
 ### Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
 
-- **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building _{{ app:project_name }}_.
 - **Provide new data or identify a problem with existing data** by [submitting an _Issue_ on GitHub](https://github.com/sfg-taxonpages/aphid/issues).
 - **Something is broken with the website or the software?** Use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
+- **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building _{{ app:project_name }}_.
+- **[The Aphid Systematics Group](https://groups.google.com/g/systemaphid/about)** is an email forum to facilitate the exchange of ideas and information among the world's aphid systematists and anyone interested in aphid systematics, including but not necessarily restricted to taxonomy, classification, nomenclature, phylogenetics, and basic aphid biology.
 
 ### Contributors
 |name|affiliation|role|identifier|
