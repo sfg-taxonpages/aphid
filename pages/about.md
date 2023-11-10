@@ -16,7 +16,7 @@ _Projects of this nature require expertise in many different areas, not only on 
 - **Provide new data or identify a problem with existing data** by [submitting an _Issue_ on GitHub](https://github.com/sfg-taxonpages/aphid/issues).
 - **Something is broken with the website or the software?** Use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
 - **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building _{{ app:project_name }}_.
-- **[The Aphid Systematics Group](https://groups.google.com/g/systemaphid/about)** is an email forum to facilitate the exchange of ideas and information among the world's aphid systematists and anyone interested in aphid systematics, including but not necessarily restricted to taxonomy, classification, nomenclature, phylogenetics, and basic aphid biology.
+- **[The Aphid Systematics Group](https://groups.google.com/g/systemaphid/about)** is an email forum to facilitate the exchange of ideas and information among the world's aphid systematists and anyone interested in aphid systematics, including but not necessarily restricted to taxonomy, classification, nomenclature, phylogenetics, and basic aphid biology. Click on the _Contact owners and managers_ link to join.
 
 ### Contributors
 |name|affiliation|role|identifier|
