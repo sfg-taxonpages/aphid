@@ -12,6 +12,9 @@ module.exports = {
       typography: {
         DEFAULT: {
           css: {
+            table: {
+              width: 'auto'
+            },
             li: {
               marginTop: em(2, 14),
               marginBottom: em(2, 14)
