@@ -10,6 +10,7 @@ taxa_page:
         - - panel:map
           - panel:descendants
           - panel:content
+          - panel:image-matrix
           - panel:keys
           - panel:statistics
           - panel:sounds
