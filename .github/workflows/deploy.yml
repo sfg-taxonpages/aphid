@@ -1,9 +1,8 @@
-name: Deploy to GitHub Pages 
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main
       - setup
   workflow_dispatch:
 
@@ -12,35 +11,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: 'main'
-          fetch-depth: 0
-
-      - uses: actions/checkout@v4
-        with:
-          ref: 'setup'
-          fetch-depth: 0
-          path: _setup
-
-      - name: Insert setup branch
-        run: cp -r _setup/* .
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        id: npm-cache
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: '22'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
+
+      - name: Install latest TaxonPages version
+        run: npm install @sfgrp/taxonpages
 
       - name: Build public view
         run: npm run build

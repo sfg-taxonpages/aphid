@@ -1,11 +1,6 @@
-*
-!pages
-!pages/**
-!panels
-!panels/**
-!config
-!config/**
-!public
-!public/**
-!README.md
-config/**/*.development.yml
+node_modules
+.DS_Store
+dist
+*.local
+.env
+.vite
